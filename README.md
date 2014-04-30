@@ -10,7 +10,7 @@ The program is written using [Xamarin Studio](https://xamarin.com/studio) and [M
 
 You can download a build of the product from:
 
-[Moxier2LastPass_1.0.10430.0.tar.gz]()
+[Moxier2LastPass_1.0.10430.0.tar.gz](https://s3-us-west-2.amazonaws.com/jlyonsmith/Moxier2LastPass_1.0.10430.0.tar.gz)
 
 The program uses the information provided by LastPass on the [Importing Passwords](https://helpdesk.lastpass.com/getting-started/importing-from-other-password-managers/) page.
 
